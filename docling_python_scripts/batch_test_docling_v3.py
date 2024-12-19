@@ -4,8 +4,8 @@ from datetime import datetime
 
 # Input and output directories
 input_folder = "test_data/batch_10"  # Relative path to the current batch folder
-output_folder = "output_markdowns"  # Base folder to save the Markdown outputs
-report_folder = "reports"  # Folder to save the batch processing reports
+output_folder = "docling_output_markdowns"  # Base folder to save the Markdown outputs
+report_folder = "docling_reports"  # Folder to save the batch processing reports
 os.makedirs(output_folder, exist_ok=True)  # Ensure the base output folder exists
 os.makedirs(report_folder, exist_ok=True)  # Ensure the report folder exists
 

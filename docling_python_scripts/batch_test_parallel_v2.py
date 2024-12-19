@@ -5,8 +5,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Input and output directories
 input_folder = "test_data/batch_10"  # Specify the current batch folder
-output_folder = "output_markdowns"
-report_folder = "reports"
+output_folder = "docling_output_markdowns"
+report_folder = "docling_reports"
 os.makedirs(output_folder, exist_ok=True)
 os.makedirs(report_folder, exist_ok=True)
 
