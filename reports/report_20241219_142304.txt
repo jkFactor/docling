@@ -1,0 +1,21 @@
+--- Batch Processing Report (20241219_142304) ---
+Start Time: 2024-12-19 14:23:04.957794
+
+Processed: ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT.PDF | Time: 14.37 seconds
+Processed: ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement .PDF | Time: 9.88 seconds
+Processed: ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT.PDF | Time: 17.36 seconds
+Processed: ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT.PDF | Time: 103.82 seconds
+Processed: AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT.PDF | Time: 7.71 seconds
+Processed: AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement.PDF | Time: 22.20 seconds
+Processed: AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.PDF | Time: 14.04 seconds
+Processed: AIRTECHINTERNATIONALGROUPINC_05_08_2000-EX-10.4-FRANCHISE AGREEMENT.PDF | Time: 25.26 seconds
+Processed: ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.PDF | Time: 20.56 seconds
+Processed: ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT.PDF | Time: 62.04 seconds
+
+--- Summary ---
+Total Documents Analyzed: 10
+Successful Documents: 10
+Total Time to Complete: 297.25 seconds
+Average Processing Time Per Document: 29.72 seconds
+Processing Time for Each Document: [14.371005, 9.875249, 17.358062, 103.819254, 7.708244, 22.201967, 14.036851, 25.264628, 20.561102, 62.039807]
+---------------------------------

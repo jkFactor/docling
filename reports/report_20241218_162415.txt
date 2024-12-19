@@ -1,0 +1,13 @@
+--- Batch Processing Report (20241218_162415) ---
+Start Time: 2024-12-18 16:24:15.416145
+
+Processed: NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_New.pdf | Time: 46.64 seconds
+Processed: NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.pdf | Time: 7.38 seconds
+
+--- Summary ---
+Total Documents Analyzed: 2
+Successful Documents: 2
+Total Time to Complete: 54.03 seconds
+Average Processing Time Per Document: 27.01 seconds
+Processing Time for Each Document: [46.642445, 7.384356]
+---------------------------------

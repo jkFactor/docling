@@ -1,0 +1,24 @@
+--- Batch Processing Report (20241219_144659) ---
+Script Version: v2.0
+Test Label: parallel_test
+Batch Number: batch_10
+Start Time: 2024-12-19 14:46:59.884494
+
+Failed: AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT.PDF | Time: 0.19 seconds | Error: type object 'tqdm' has no attribute '_lock'
+Processed: ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement .PDF | Time: 53.94 seconds
+Processed: ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT.PDF | Time: 59.80 seconds
+Processed: ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT.PDF | Time: 95.75 seconds
+Processed: AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.PDF | Time: 65.43 seconds
+Processed: AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement.PDF | Time: 121.18 seconds
+Processed: AIRTECHINTERNATIONALGROUPINC_05_08_2000-EX-10.4-FRANCHISE AGREEMENT.PDF | Time: 104.64 seconds
+Processed: ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.PDF | Time: 76.38 seconds
+Processed: ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT.PDF | Time: 141.52 seconds
+Processed: ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT.PDF | Time: 271.89 seconds
+
+--- Summary ---
+Total Documents Analyzed: 10
+Successful Documents: 9
+Total Time to Complete: 271.92 seconds
+Average Processing Time Per Document: 110.06 seconds
+Processing Time for Each Document: [53.94222, 59.798589, 95.745999, 65.426144, 121.175778, 104.63512, 76.382353, 141.520608, 271.887429]
+---------------------------------
