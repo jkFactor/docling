@@ -1,0 +1,23 @@
+--- Batch Processing Report (20241219_164323) ---
+Script Version: v1.0
+Test Label: sequential_azure
+Batch Number: batch_10
+Start Time: 2024-12-19 16:43:23.004873
+
+Failed: ADIANUTRITION,INC_04_01_2005-EX-10.D2-RESELLER AGREEMENT.PDF | Time: 0.49 seconds
+Failed: ADMA BioManufacturing, LLC -  Amendment #3 to Manufacturing Agreement .PDF | Time: 0.56 seconds
+Failed: ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT.PDF | Time: 0.57 seconds
+Failed: ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT.PDF | Time: 0.63 seconds
+Failed: AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT.PDF | Time: 0.48 seconds
+Failed: AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement.PDF | Time: 0.55 seconds
+Failed: AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.PDF | Time: 0.50 seconds
+Failed: AIRTECHINTERNATIONALGROUPINC_05_08_2000-EX-10.4-FRANCHISE AGREEMENT.PDF | Time: 0.56 seconds
+Failed: ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.PDF | Time: 0.54 seconds
+Failed: ACCURAYINC_09_01_2010-EX-10.31-DISTRIBUTOR AGREEMENT.PDF | Time: 0.64 seconds
+
+--- Summary ---
+Total Documents Analyzed: 10
+Successful Documents: 0
+Total Time to Complete: 5.52 seconds
+Processing Time for Each Document: []
+---------------------------------
